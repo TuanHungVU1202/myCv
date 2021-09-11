@@ -22,9 +22,9 @@ _Project DBS_: The system allows customers to elaborate personal information and
 **Bachelor Thesis** (Apr 2018 - Jan 2019)
 
 ## Languages
-Vietnamese**: Native
+**Vietnamese**: Native
 
-English**: C1
+**English**: C1
 
 
 ## Education

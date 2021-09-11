@@ -12,9 +12,9 @@ Software Engineer - Studying for M.S in Communications Engineering at Aalto Univ
 
 **Software Engineer** @ [Contemi Vietnam](https://contemi.com) (Jul 2019 - Apr 2020)
 
-####_Project Insurtech_: The system allows clients manage internal documents and interact with their customers digitally. Through the system, clients can view, search, filter, change status of claim requests and generate documents within clicks. Angular 7 was chosen for frontend background and supports multiple browser platforms.
+*_Project Insurtech_: The system allows clients manage internal documents and interact with their customers digitally. Through the system, clients can view, search, filter, change status of claim requests and generate documents within clicks. Angular 7 was chosen for frontend background and supports multiple browser platforms.
 
-####_Project DBS_: The system allows customers to elaborate personal information and offers options and values of the insurance based on provided data. In addition, insurance payment system is made based on specified measures and conditions which enable customers to make a successful transaction.  DBS uses Java as back end background for operating and running with Spring MVC as core framework for the system. ClojureScript is chosen for the front end background and supports multiple browser platforms.
+*_Project DBS_: The system allows customers to elaborate personal information and offers options and values of the insurance based on provided data. In addition, insurance payment system is made based on specified measures and conditions which enable customers to make a successful transaction.  DBS uses Java as back end background for operating and running with Spring MVC as core framework for the system. ClojureScript is chosen for the front end background and supports multiple browser platforms.
 - Develop and maintain REST API fulfilled requirements of clients, mostly in the insurance industry
 - Involve in front-end development when needed
 - **Technologies used**: Java, Spring Framework, Spring Boot, JPA, Hibernate, Elasticsearch, Swagger, Angular 7
@@ -22,9 +22,9 @@ Software Engineer - Studying for M.S in Communications Engineering at Aalto Univ
 **Bachelor Thesis** (Apr 2018 - Jan 2019)
 
 ## Languages
-####**Vietnamese**: Native
+***Vietnamese**: Native
 
-####**English**: C1
+***English**: C1
 
 
 ## Education

@@ -1,37 +1,35 @@
-## Welcome to GitHub Pages
+# Tuan Hung VU
 
-You can use the [editor on GitHub](https://github.com/TuanHungVU1202/myCv/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Software Engineer - Studying for M.S in Communications Engineering at Aalto University
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+[Email](tuanhung.vu122@gmail.com)/ [LinkedIn](https://www.linkedin.com/in/tuan-hung-vu/)/ [GitHub](https://github.com/TuanHungVU1202)
 
-### Markdown
+## Technical Experience
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+**Software Engineer** @ [Advantco](https://www.advantco.com) (Jun 2020 - Aug 2021)
+- Develop and maintain SAP PI/PO, CPI [Kafka Adapter](https://www.advantco.com/sap-integration-adapters/sap-kafka-integration?hsLang=en)
+- **Technologies used**: Java, Apache Kafka
 
-```markdown
-Syntax highlighted code block
+**Software Engineer** @ [Contemi Vietnam](https://contemi.com) (Jul 2019 - Apr 2020)
+_Project Insurtech_: The system allows clients manage internal documents and interact with their customers digitally. Through the system, clients can view, search, filter, change status of claim requests and generate documents within clicks. Angular 7 was chosen for frontend background and supports multiple browser platforms.
+_Project DBS_: The system allows customers to elaborate personal information and offers options and values of the insurance based on provided data. In addition, insurance payment system is made based on specified measures and conditions which enable customers to make a successful transaction.  DBS uses Java as back end background for operating and running with Spring MVC as core framework for the system. ClojureScript is chosen for the front end background and supports multiple browser platforms.
+- Develop and maintain REST API fulfilled requirements of clients, mostly in the insurance industry
+- Involve in front-end development when needed
+- **Technologies used**: Java, Spring Framework, Spring Boot, JPA, Hibernate, Elasticsearch, Swagger, Angular 7
 
-# Header 1
-## Header 2
-### Header 3
+**Bachelor Thesis** (Apr 2018 - Jan 2019)
 
-- Bulleted
-- List
+## Languages
+**Vietnamese**: Native
+**English**: C1
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
+## Education
+**Master of Science (Technology)** in Communications Engineering
+[Aalto University](https://www.aalto.fi/fi) - Finland (Aug 2021 - Present)
 
-[Link](url) and ![Image](src)
-```
+**Bachelor of Engineering** in Electronics - Telecommunications Engineering
+[HCMC University of Technology](https://oisp.hcmut.edu.vn/en/) - HoChiMinh City, Vietnam (2014 - 2019)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/TuanHungVU1202/myCv/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+**Erasmus Exchange - Fully Funded Scholarship** studying Informatics
+[Masaryk University](https://oisp.hcmut.edu.vn/en/) - Brno, Czech Republic (Fall 2017)

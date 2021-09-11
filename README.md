@@ -21,6 +21,11 @@ _Project DBS_: The system allows customers to elaborate personal information and
 
 **Bachelor Thesis** (Apr 2018 - Jan 2019)
 
+_Project Smart Home_: Build Smart Home system with real-time facial recognition
+- Design and implement circuits and a Web application to control devices remotely
+- Implement OpenCV on Raspberry Pi as a facial recognition module
+- **Technologies used**: NodeJs, MongoDB, MQTT, Python
+
 ## Languages
 **Vietnamese**: Native
 

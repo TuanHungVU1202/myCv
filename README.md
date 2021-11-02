@@ -8,6 +8,7 @@ Otaniemi, 02150 Espoo, Finland
 **Jun 2020 - Aug 2021**: Software Engineer @ [Advantco](https://www.advantco.com)
 - Developed and maintained SAP PI/PO, CPI [Kafka Adapter](https://www.advantco.com/sap-integration-adapters/sap-kafka-integration?hsLang=en)
 - Researched and implemented new features that meet customers' requirements
+- Handled deployment issues on SAP CPI
 - **Technologies used**: Java, Apache Kafka
 
 **Jul 2019 - Apr 2020** Software Engineer @ [Contemi Vietnam](https://contemi.com)
@@ -28,12 +29,12 @@ _Project DBS_: The system generate quotation and allows customers to purchase th
 
 [HCMC University of Technology](https://oisp.hcmut.edu.vn/en/) - HoChiMinh City, Vietnam
 - **Aug 2017 - Feb 2018:** _Erasmus Exchange - Fully Funded Scholarship_ 
-- Study Informatics @ [Masaryk University](https://www.muni.cz/en) - Brno, Czech Republic
+-- Study Informatics @ [Masaryk University](https://www.muni.cz/en) - Brno, Czech Republic
 - **Apr 2018 - Jan 2019:** _Bachelor Thesis_
 _Project Smart Home_: Build Smart Home system with real-time facial recognition
-- Designed and implemented circuits and a Web application to control devices remotely
-- Implemented OpenCV on Raspberry Pi as a facial recognition module
-- **Technologies used**: C, NodeJs, MongoDB, MQTT, Python
+-- Designed and implemented circuits and a Web application to control devices remotely
+-- Implemented OpenCV on Raspberry Pi as a facial recognition module
+-- **Technologies used**: C, NodeJs, MongoDB, MQTT, Python
 
 ## Languages
 **Vietnamese**: Native

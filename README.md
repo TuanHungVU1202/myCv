@@ -44,10 +44,10 @@ _Project DBS_: The system generate quotation and allows customers to purchase th
 **English**: Fluent - C1
 
 ## Relevant skills
-- Development (Java Core, Spring Framework, JPA, Python, Linux, MySQL, Elasticsearch)
 - Teamwork
 -	Communication
 -	Time management
+- Development (Java Core, Spring Framework, JPA, Python, Linux, MySQL, Elasticsearch)
 -	Development Tools: Spring Tool Suite, IntelliJ, PyCharm, Visual Studio Code, WebStorm
 -	Version control: Git, SVN
 

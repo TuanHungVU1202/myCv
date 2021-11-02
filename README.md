@@ -1,46 +1,54 @@
 # Tuan Hung VU
 
-Software Engineer - Studying for M.S in Communications Engineering at Aalto University
+Software Engineer - Studying for M.Sc in Communications Engineering at Aalto University
 
-[Email](tuanhung.vu122@gmail.com)/ [LinkedIn](https://www.linkedin.com/in/tuan-hung-vu/)/ [GitHub](https://github.com/TuanHungVU1202)
+Otaniemi, 02150 Espoo, Finland
+[Email](tuanhung.vu122@gmail.com)/[Email-Aalto](hung.vu@aalto.fi)/ [LinkedIn](https://www.linkedin.com/in/tuan-hung-vu/)/ [GitHub](https://github.com/TuanHungVU1202)
 
-## Technical Experience
+## Work Experience
 
-**Software Engineer** @ [Advantco](https://www.advantco.com) (Jun 2020 - Aug 2021)
-- Develop and maintain SAP PI/PO, CPI [Kafka Adapter](https://www.advantco.com/sap-integration-adapters/sap-kafka-integration?hsLang=en)
+**Jun 2020 - Aug 2021**: Software Engineer @ [Advantco](https://www.advantco.com)
+- Developed and maintained SAP PI/PO, CPI [Kafka Adapter](https://www.advantco.com/sap-integration-adapters/sap-kafka-integration?hsLang=en)
+- Researched and implemented new features that meet customers' requirements
 - **Technologies used**: Java, Apache Kafka
 
-**Software Engineer** @ [Contemi Vietnam](https://contemi.com) (Jul 2019 - Apr 2020)
+**Jul 2019 - Apr 2020** Software Engineer @ [Contemi Vietnam](https://contemi.com)
 
-_Project Insurtech_: The system allows clients manage internal documents and interact with their customers digitally. Through the system, clients can view, search, filter, change status of claim requests and generate documents within clicks. Angular 7 was chosen for frontend background and supports multiple browser platforms.
+_Project Insurtech_: The system allows clients manage internal documents and interact with their customers digitally. Through the system, clients can view, search, filter, change status of claim requests and generate documents.
 
-_Project DBS_: The system allows customers to elaborate personal information and offers options and values of the insurance based on provided data. In addition, insurance payment system is made based on specified measures and conditions which enable customers to make a successful transaction.  DBS uses Java as back end background for operating and running with Spring MVC as core framework for the system. ClojureScript is chosen for the front end background and supports multiple browser platforms.
-- Develop and maintain REST API fulfilled requirements of clients, mostly in the insurance industry
-- Involve in front-end development when needed
+_Project DBS_: The system generate quotation and allows customers to purchase the insurance based on provided information
+- Developed and maintained REST API fulfilled requirements of clients, mostly in the insurance industry
+- Involved in front-end development when needed
 - **Technologies used**: Java, Spring Framework, Spring Boot, JPA, Hibernate, Elasticsearch, Swagger, Angular 7
 
-**Bachelor Thesis** (Apr 2018 - Jan 2019)
+## Education
+**Aug 2021 - Aug 2023:** MSc - Communications Engineering
 
+[Aalto University](https://www.aalto.fi/fi) - Finland
+
+**2014 - 2019:** BEng- Electronics and Telecommunications Engineering
+
+[HCMC University of Technology](https://oisp.hcmut.edu.vn/en/) - HoChiMinh City, Vietnam
+- **Aug 2017 - Feb 2018:** Erasmus Exchange - Fully Funded Scholarship from [Masaryk University](https://www.muni.cz/en) - Brno, Czech Republic
+- **Apr 2018 - Jan 2019:** Bachelor Thesis
 _Project Smart Home_: Build Smart Home system with real-time facial recognition
-- Design and implement circuits and a Web application to control devices remotely
-- Implement OpenCV on Raspberry Pi as a facial recognition module
-- **Technologies used**: NodeJs, MongoDB, MQTT, Python
+- Designed and implemented circuits and a Web application to control devices remotely
+- Implemented OpenCV on Raspberry Pi as a facial recognition module
+- **Technologies used**: C, NodeJs, MongoDB, MQTT, Python
 
 ## Languages
 **Vietnamese**: Native
 
-**English**: C1
+**English**: Fluent - C1
 
+## Relevant skills
+- Development (Java Core, Spring Framework, JPA, Python, Linux, MySQL, Elasticsearch)
+- Teamwork
+-	Communication
+-	Time management
+-	Development Tools: Spring Tool Suite, IntelliJ, PyCharm, Visual Studio Code, WebStorm
+-	Version control: Git, SVN
 
-## Education
-**Master of Science (Technology)** in Communications Engineering
-
-[Aalto University](https://www.aalto.fi/fi) - Finland (Aug 2021 - Present)
-
-**Bachelor of Engineering** in Electronics - Telecommunications Engineering
-
-[HCMC University of Technology](https://oisp.hcmut.edu.vn/en/) - HoChiMinh City, Vietnam (2014 - 2019)
-
-**Erasmus Exchange - Fully Funded Scholarship** studying Informatics
-
-[Masaryk University](https://oisp.hcmut.edu.vn/en/) - Brno, Czech Republic (Fall 2017)
+## Hobbies
+- Hiking
+- Reading books

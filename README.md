@@ -29,8 +29,9 @@ _Project DBS_: The system generate quotation and allows customers to purchase th
 **2014 - 2019:** BEng- Electronics and Telecommunications Engineering
 
 [HCMC University of Technology](https://oisp.hcmut.edu.vn/en/) - HoChiMinh City, Vietnam
-- **Aug 2017 - Feb 2018:** Erasmus Exchange - Fully Funded Scholarship from [Masaryk University](https://www.muni.cz/en) - Brno, Czech Republic
-- **Apr 2018 - Jan 2019:** Bachelor Thesis
+- **Aug 2017 - Feb 2018:** _Erasmus Exchange - Fully Funded Scholarship_ 
+- Study Informatics @ [Masaryk University](https://www.muni.cz/en) - Brno, Czech Republic
+- **Apr 2018 - Jan 2019:** _Bachelor Thesis_
 _Project Smart Home_: Build Smart Home system with real-time facial recognition
 - Designed and implemented circuits and a Web application to control devices remotely
 - Implemented OpenCV on Raspberry Pi as a facial recognition module

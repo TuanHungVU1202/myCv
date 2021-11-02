@@ -1,7 +1,5 @@
 # Tuan Hung VU
 
-Software Engineer - Studying for M.Sc in Communications Engineering at Aalto University
-
 Otaniemi, 02150 Espoo, Finland
 [Email](tuanhung.vu122@gmail.com)/[Email-Aalto](hung.vu@aalto.fi)/ [LinkedIn](https://www.linkedin.com/in/tuan-hung-vu/)/ [GitHub](https://github.com/TuanHungVU1202)
 

@@ -30,7 +30,7 @@ _Project Smart Home_: Build Smart Home system with real-time facial recognition
 
 **Jul 2019 - Apr 2020** Software Engineer @ [Contemi Vietnam](https://contemi.com)
 
-_Project Insurtech_: The system allows clients manage internal documents and interact with their customers digitally. Through the system, clients can view, search, filter, change status of claim requests and generate documents.
+_Project Insurtech_: The system allows clients to view, search, filter, change status of claim requests, generate documents and interact with their customers 
 
 _Project DBS_: The system generate quotation and allows customers to purchase the insurance based on provided information
 - Developed and maintained REST API fulfilled requirements of clients, mostly in the insurance industry

@@ -23,6 +23,7 @@ _Project Smart Home_: Build Smart Home system with real-time facial recognition
 ## Work Experience
 
 **Jun 2020 - Aug 2021**: Software Engineer @ [Advantco](https://www.advantco.com)
+
 _Project Kafka Adapter_: An application allows to exchange streams of data with the Integration server using Kafka APIs
 - Developed and maintained SAP PI/PO, CPI [Kafka Adapter](https://www.advantco.com/sap-integration-adapters/sap-kafka-integration?hsLang=en)
 - Researched and implemented new features that meet customers' requirements
